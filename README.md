@@ -45,6 +45,6 @@ JavaScript
 
 This project is open-source and available under the MIT License.
 
-![Tic Tac Toe Screenshot](Tic Tac Toe Game.jpeg)
+![Tic Tac Toe Game](TicTacToe.jpeg)
 C:\Users\hp\OneDrive\Desktop
 
